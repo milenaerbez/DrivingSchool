@@ -1,0 +1,13 @@
+D:\Projekat\Projekat\SystemOperation\bin\Debug\SystemOperation.dll
+D:\Projekat\Projekat\SystemOperation\bin\Debug\SystemOperation.pdb
+D:\Projekat\Projekat\SystemOperation\bin\Debug\Common.dll
+D:\Projekat\Projekat\SystemOperation\bin\Debug\Domain.dll
+D:\Projekat\Projekat\SystemOperation\bin\Debug\Repository.dll
+D:\Projekat\Projekat\SystemOperation\bin\Debug\Common.pdb
+D:\Projekat\Projekat\SystemOperation\bin\Debug\Domain.pdb
+D:\Projekat\Projekat\SystemOperation\bin\Debug\Repository.pdb
+D:\Projekat\Projekat\SystemOperation\obj\Debug\SystemOperation.csproj.AssemblyReference.cache
+D:\Projekat\Projekat\SystemOperation\obj\Debug\SystemOperation.csproj.CoreCompileInputs.cache
+D:\Projekat\Projekat\SystemOperation\obj\Debug\SystemOperation.csproj.CopyComplete
+D:\Projekat\Projekat\SystemOperation\obj\Debug\SystemOperation.dll
+D:\Projekat\Projekat\SystemOperation\obj\Debug\SystemOperation.pdb

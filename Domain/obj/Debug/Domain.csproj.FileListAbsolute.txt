@@ -1,0 +1,9 @@
+D:\Projekat\Projekat\Domain\bin\Debug\Domain.dll
+D:\Projekat\Projekat\Domain\bin\Debug\Domain.pdb
+D:\Projekat\Projekat\Domain\bin\Debug\Common.dll
+D:\Projekat\Projekat\Domain\bin\Debug\Common.pdb
+D:\Projekat\Projekat\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Projekat\Projekat\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Projekat\Projekat\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Projekat\Projekat\Domain\obj\Debug\Domain.dll
+D:\Projekat\Projekat\Domain\obj\Debug\Domain.pdb

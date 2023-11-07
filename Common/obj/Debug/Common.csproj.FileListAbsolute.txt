@@ -1,0 +1,6 @@
+D:\Projekat\Projekat\Common\bin\Debug\Common.dll
+D:\Projekat\Projekat\Common\bin\Debug\Common.pdb
+D:\Projekat\Projekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Projekat\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Projekat\Projekat\Common\obj\Debug\Common.dll
+D:\Projekat\Projekat\Common\obj\Debug\Common.pdb
